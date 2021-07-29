@@ -1,1 +1,1 @@
-<h1 style="align-text:center;">Olá, me chamo Flávio Farias</h1>
+<h1 style="align:center;">Olá, me chamo Flávio Farias</h1>
