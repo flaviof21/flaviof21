@@ -9,7 +9,7 @@
 
 ### 👨🏻‍💻 &nbsp; **About Me**
 <li>
-  💡 &nbsp; I'm Full Stack developer since 2017.
+  💡 &nbsp; I'm Full Stack developer since 2018.
 </li>
 <li>
   💻 &nbsp; Javascript | Nodejs | React | Sql.
