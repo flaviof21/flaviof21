@@ -12,7 +12,7 @@
   💡 &nbsp; I'm Full Stack developer since 2018.
 </li>
 <li>
-  💻 &nbsp; Javascript | Nodejs | React | Sql.
+  💻 &nbsp; Javascript | Nodejs | React | Sql | Lua | Rabbitmq | Nginx.
 </li>
 <li>
   ✍️ &nbsp; Studying languages ​​of the future
