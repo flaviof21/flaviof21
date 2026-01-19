@@ -1,15 +1,9 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Olá pessoal!
-![version :10.11.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
-<!-- ![profile count](https://komarev.com/ghpvc/?username=flaviof21&color=red)&nbsp;
-[![GitHub flaviof21](https://img.shields.io/github/followers/flaviof21?label=follow&style=social)](https://github.com/flavio21)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success) -->
-
-* * *
+<h1 align="center"><img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello! I'm Flávio.</h1>
 
 
-### 👨🏻‍💻 &nbsp; **About Me**
+
 <li>
-  💡 &nbsp; I'm Full Stack developer since 2018.
+  💡 &nbsp; I'm <b>Full Stack</b> developer since 2018.
 </li>
 <li>
   💻 &nbsp; Javascript | Nodejs | React | Sql | Lua | Rabbitmq | Nginx.
